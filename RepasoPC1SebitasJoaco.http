@@ -1,0 +1,6 @@
+@RepasoPC1SebitasJoaco_HostAddress = http://localhost:5020
+
+GET {{RepasoPC1SebitasJoaco_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
